@@ -6,3 +6,7 @@ PowerBI dashboard:https://app.powerbigov.us/view?r=eyJrIjoiNTM0NTQwMjctZmIwOC00M
 Data: https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij
 
 Documentation consulted: Streamlit, plotly, stackoverflow Q&A page, Pandas functions
+
+
+To run: install streamlit, https://docs.streamlit.io/en/stable/
+In your terminal, write: streamlit run [file_name]
