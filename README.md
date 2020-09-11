@@ -1,5 +1,5 @@
 # Mimic_Dashboard
-I mimicked a powerbi dashboard using streamlit via python
+I mimicked a powerbi dashboard using streamlit via python. 9/11/20: Added a version I created in Google Data Studio
 
 PowerBI dashboard:https://app.powerbigov.us/view?r=eyJrIjoiNTM0NTQwMjctZmIwOC00M2JkLTkzNzAtNmExM2U2MzU2NzRlIiwidCI6IjMxMmNiMTI2LWM2YWUtNGZjMi04MDBkLTMxOGU2NzljZTZjNyJ9
 
